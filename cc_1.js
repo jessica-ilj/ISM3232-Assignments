@@ -36,3 +36,14 @@ console.log(accountBalance);
 
 accountBalance%=7
 console.log(accountBalance);
+
+//Task 4: Comparison Operators
+
+let employeeScore1 = 3
+let employeeScore2 = 4
+console.log(employeeScore1>employeeScore2); //i tried doing the output on a straight line but it was too messy and i couldnt figure out how to separate outputs without getting an error if i used commas
+console.log(employeeScore1<employeeScore2);
+console.log(employeeScore1>=employeeScore2);
+console.log(employeeScore1<=employeeScore2);
+console.log(employeeScore1===employeeScore2);
+console.log(employeeScore1!=employeeScore2);
